@@ -1,0 +1,30 @@
+{
+  "name": "bora-bill",
+  "version": "1.0.0",
+  "description": "Bora Bill! Bora fio do Bill! Bora muié do Bill!",
+  "main": "index.js",
+  "bin": {
+    "bomdia": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoquadrotti/bora-bill.git"
+  },
+  "keywords": [
+    "bora bill",
+    "bora",
+    "bill",
+    "bora muié do bill",
+    "bora fio do bill"
+  ],
+  "author": "Bruno Quadrotti de Freitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoquadrotti/bora-bill/issues"
+  },
+  "homepage": "https://github.com/brunoquadrotti/bora-bill#readme"
+}
