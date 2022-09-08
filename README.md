@@ -1,7 +1,15 @@
-# Bom dia do Mourão
-Bom dia!
+# Bora Bill!
+Bora bill!
 
-> BOM DIA!
+## Run on console
+
+> bora-bill
+
+## Available commands
+
+> bora-bill --muie
+
+> bora-bill --fio
 
 ## Compatibility
 
@@ -12,21 +20,21 @@ Bom dia!
 ## Installing
 Install globally:
     
-    cd bomdia
+    cd borabill
     npm install -g
 
 Or install locally:
 
-    cd bomdia
+    cd borabill
     npm install
 
 ## Running
 Run command:
 
-    bomdia
+    borabill
 
 Or import in NodeJS script:
 
-    var bomdia = require('bomDia');
+    var borabill = require('boraBill');
 
-    bomdia();
+    borabill();

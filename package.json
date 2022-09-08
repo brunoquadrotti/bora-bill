@@ -4,7 +4,7 @@
   "description": "Bora Bill! Bora fio do Bill! Bora muié do Bill!",
   "main": "index.js",
   "bin": {
-    "bomdia": "./index.js"
+    "bora-bill": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
