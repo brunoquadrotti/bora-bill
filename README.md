@@ -1,6 +1,10 @@
 # Bora Bill!
 Bora bill!
 
+## Installation
+
+> npm i -g bora-bill
+
 ## Run on console
 
 > bora-bill
